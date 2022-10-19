@@ -2,7 +2,7 @@
 
 Submitted by: **Jose Jauregui**
 
-**BitFit1** is a health metrics app that allows users to track ... [TODO] 
+**BitFit1** is a health metrics app that allows users to track of their foods and calories
 
 Time spent: **10** hours spent in total
 
