@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='listFoods.gif'
+<img src='http://i.imgur.com/link/to/your/gif/listFoods.gif'
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
